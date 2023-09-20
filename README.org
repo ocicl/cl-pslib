@@ -4,6 +4,6 @@
 
 |---------+-------------------------------------------|
 | source  | git:https://notabug.org/cage/cl-pslib.git |
-| commit  | e96656b                                   |
+| commit  | e20baca                                   |
 | systems | cl-pslib                                  |
 |---------+-------------------------------------------|
